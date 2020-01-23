@@ -22,8 +22,9 @@ section {
 
 #social {
     text-align: center;
+    display: inline-block;
 }
 
 a footer {
-    display: inline;
+    display: inline-block;
 }
