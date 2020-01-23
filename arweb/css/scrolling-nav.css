@@ -24,6 +24,6 @@ section {
     text-align: center;
 }
 
-footer span {
-/*     display: inline;	 */
+footer a {
+    display: inline;
 }
